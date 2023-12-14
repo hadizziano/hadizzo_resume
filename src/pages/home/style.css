@@ -1,0 +1,60 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.maincontainer {
+  background-image: url("./webbg.jpg");
+  background-size: contain;
+}
+
+#navbar {
+  background-color: #262626;
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+}
+#navbar a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  cursor: pointer; /* Add pointer cursor for links */
+}
+#navbar a:hover {
+  color: #5cfcff;
+}
+#section1 {
+  color: white;
+  padding: 50px;
+  width: 50%;
+  height: 1000px;
+  z-index: +1000;
+}
+#section2 {
+  /* background-image: url("./technology-5912098.original.jpg"); */
+  color: white;
+
+  padding: 50px;
+  width: 50%;
+  height: 1000px;
+}
+#section3 {
+  color: white;
+  padding: 50px;
+  width: 50%;
+  height: 1000px;
+}
+
+#section4 {
+  color: white;
+  padding: 50px;
+  height: 1000px;
+}
+
+#section5 {
+  color: white;
+  padding: 50px;
+  height: 1000px;
+}
