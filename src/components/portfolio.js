@@ -8,7 +8,7 @@ export const portfolio = () => {
         href="https://zahrapakdelnia.netlify.app"
       >
         <div>
-          <div style={{ border: "solid 1px gray", width: "20%" }}>
+          <div style={{ border: "solid 1px gray" }}>
             <img width="100px" src="./images/gallery.png" alt="gallery" />
           </div>
           <div>
@@ -23,7 +23,7 @@ export const portfolio = () => {
         href="https://zahrapakdelnia.netlify.app"
       >
         <div>
-          <div style={{ border: "solid 1px gray", width: "20%" }}>
+          <div style={{ border: "solid 1px gray" }}>
             <img width="100px" src="./images/gallery.png" alt="gallery" />
           </div>
           <div>
@@ -38,7 +38,7 @@ export const portfolio = () => {
         href="https://zahrapakdelnia.netlify.app"
       >
         <div>
-          <div style={{ border: "solid 1px gray", width: "20%" }}>
+          <div style={{ border: "solid 1px gray" }}>
             <img width="100px" src="./images/gallery.png" alt="gallery" />
           </div>
           <div>
@@ -53,7 +53,7 @@ export const portfolio = () => {
         href="https://zahrapakdelnia.netlify.app"
       >
         <div>
-          <div style={{ border: "solid 1px gray", width: "20%" }}>
+          <div style={{ border: "solid 1px gray" }}>
             <img width="100px" src="./images/gallery.png" alt="gallery" />
           </div>
           <div>
