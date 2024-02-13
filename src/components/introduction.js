@@ -4,9 +4,8 @@ export const introduction = () => {
   return (
     <div>
       <div className="introduction">
-        <div>
-          <img className="profilepic" src="./images/profile.png" />
-        </div>
+        <img className="profilepic" src="./images/profile.png" />
+
         <div style={{ marginTop: "10px" }}>
           <div className="titletext">Hi, I am Hadi Masoumi </div>
           <div className="explanationtext">
