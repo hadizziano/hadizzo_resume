@@ -3,6 +3,7 @@ import React from "react";
 export const experiences = () => {
   return (
     <div className="experiences">
+      <div className="space"></div>
       <div>
         <h1>Experiences</h1>
         <div className="flexive">
