@@ -3,7 +3,7 @@ import React from "react";
 export const education = () => {
   return (
     <div>
-      <p style={{ marginTop: "300px" }}>
+      <p className="marginedcontent">
         <h1>Education</h1>
         ✔️ Bachelor's degree of computer softwares engineering from Azad
         University of Dezfoul

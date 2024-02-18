@@ -2,8 +2,8 @@ import React from "react";
 
 export const skills = () => {
   return (
-    <div style={{ display: "flex" }}>
-      <p style={{ marginTop: "300px" }}>
+    <div className="flexive">
+      <p className="topmarginp">
         <h1>Skills</h1>
         <div style={{ color: "#20d3d6", marginBottom: "20px" }}>
           Web development
@@ -11,7 +11,7 @@ export const skills = () => {
         ✔️ Html/CSS/JavaScript <br /> ✔️ React.js <br /> ✔️ Node.js <br />
         ✔️ Redux <br /> ✔️ React router
       </p>
-      <p style={{ marginTop: "360px", marginLeft: "100px" }}>
+      <p className="flexivep">
         <h4 style={{ color: "#20d3d6" }}> Design</h4> ✔️figma <br /> ✔️ Adobe XD{" "}
         <br /> ✔️ Axure
         <br />

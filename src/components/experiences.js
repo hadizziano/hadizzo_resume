@@ -2,12 +2,10 @@ import React from "react";
 
 export const experiences = () => {
   return (
-    <div>
+    <div className="experiences">
       <div>
-        <div style={{ marginTop: "280px" }}>
-          <h1>Experiences</h1>
-        </div>
-        <div style={{ display: "flex" }}>
+        <h1>Experiences</h1>
+        <div className="flexive">
           <div>
             <div style={{ color: "#20d3d6", marginBottom: "20px" }}>
               ☑️ DESPHILMAN LTD (2018 – 2023) <br /> ☑️ FRONTEND DEVELOPER{" "}
@@ -22,8 +20,7 @@ export const experiences = () => {
             needs. Created documentation for new applications to support
             endusers. Brought mock-ups to life with HTML, CSS and JavaScript.
           </div>
-
-          <div style={{ marginLeft: "100px" }}>
+          <div className="row2">
             <div style={{ color: "#20d3d6", marginBottom: "20px" }}>
               <br />
               ☑️ UI/UX DESIGNER <br />

@@ -5,7 +5,7 @@ export const section1 = () => {
     <div>
       <p style={{ marginTop: "300px" }}>
         <h1>Adventure</h1>
-        {Texts.adventure}
+        {/* {Texts.adventure} */}
       </p>
     </div>
   );
